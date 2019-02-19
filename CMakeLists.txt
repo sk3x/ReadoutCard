@@ -107,6 +107,7 @@ set(SRCS
   src/Utilities/MemoryMaps.cxx
   src/Utilities/Numa.cxx
   src/CommandLineUtilities/AliceLowlevelFrontend/Sca.cxx
+  src/CommandLineUtilities/AliceLowlevelFrontend/HdlcRoc.cxx
   src/CommandLineUtilities/AliceLowlevelFrontend/ServiceNames.cxx
   src/CommandLineUtilities/Common.cxx
   src/CommandLineUtilities/Options.cxx
